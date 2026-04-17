@@ -26,7 +26,7 @@ CHELSA climate data
 GBIF occurrence data
 
 🚧 Status
-This is an ongoing project. 
+This project originated as a university assignment and is being extended into a research-oriented workflow. This is an ongoing project. 
 
 Planned extensions:
 inclusion of tidal flat extent and NDVI
